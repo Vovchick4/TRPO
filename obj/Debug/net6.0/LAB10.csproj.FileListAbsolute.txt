@@ -1,0 +1,15 @@
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.csproj.AssemblyReference.cache
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.AssemblyInfoInputs.cache
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.AssemblyInfo.cs
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.csproj.CoreCompileInputs.cache
+D:\Лаби\KURS4\TRPO\LAB10\bin\Debug\net6.0\LAB10.exe
+D:\Лаби\KURS4\TRPO\LAB10\bin\Debug\net6.0\LAB10.deps.json
+D:\Лаби\KURS4\TRPO\LAB10\bin\Debug\net6.0\LAB10.runtimeconfig.json
+D:\Лаби\KURS4\TRPO\LAB10\bin\Debug\net6.0\LAB10.dll
+D:\Лаби\KURS4\TRPO\LAB10\bin\Debug\net6.0\ref\LAB10.dll
+D:\Лаби\KURS4\TRPO\LAB10\bin\Debug\net6.0\LAB10.pdb
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.dll
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\ref\LAB10.dll
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.pdb
+D:\Лаби\KURS4\TRPO\LAB10\obj\Debug\net6.0\LAB10.genruntimeconfig.cache
